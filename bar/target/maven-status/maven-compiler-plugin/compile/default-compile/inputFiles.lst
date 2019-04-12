@@ -1,0 +1,5 @@
+/Users/ywb/gitlab/yangwenbing/openfeign-issues-173/bar/src/main/java/outside/client/FooClientFallback.java
+/Users/ywb/gitlab/yangwenbing/openfeign-issues-173/bar/src/main/java/outside/client/FooClientV1.java
+/Users/ywb/gitlab/yangwenbing/openfeign-issues-173/bar/src/main/java/io/ywb/BarApplication.java
+/Users/ywb/gitlab/yangwenbing/openfeign-issues-173/bar/src/main/java/outside/client/FooClientConfiguration.java
+/Users/ywb/gitlab/yangwenbing/openfeign-issues-173/bar/src/main/java/outside/client/FooClient.java
