@@ -2,6 +2,12 @@
 
 a Minimal, Complete, and Verifiable example to reproduce the issue about spring-cloud-openfeign-issue-173
 
+this project consists of two simple service: service bar && service foo.
+when starting bar,throw 
+```
+Caused by: java.lang.IllegalStateException: No fallback instance of type class outside.client.FooClientFallback 
+found for feign client foo
+```
 ## quick start
 
 ### [install consul](https://learn.hashicorp.com/consul/getting-started/install.html)
